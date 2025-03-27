@@ -1,0 +1,10 @@
+name = "ECExplorations"
+uuid = "228510eb-bb68-4dc6-8b60-bddd6fd9ae58"
+authors = ["Astramaniac <omgspamforme@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+
+[compat]
+Plots = "1.40.11"
